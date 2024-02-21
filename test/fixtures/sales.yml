@@ -1,0 +1,29 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2024-02-21
+  customer_code: MyString
+  name: MyString
+  descr: MyString
+  doc_type: MyString
+  quant: 1.5
+  ppy: 1.5
+  value: 1.5
+  city: MyString
+  zip: MyString
+  tel: MyString
+  afm: MyString
+
+two:
+  date: 2024-02-21
+  customer_code: MyString
+  name: MyString
+  descr: MyString
+  doc_type: MyString
+  quant: 1.5
+  ppy: 1.5
+  value: 1.5
+  city: MyString
+  zip: MyString
+  tel: MyString
+  afm: MyString
